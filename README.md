@@ -4,24 +4,22 @@
 
 An AI decision engine that helps Product Managers identify the right opportunities, prepare strategically, and invest their time where it matters most.
 
+
+---
+
+> 🚧 **Project Status:** Brain v0.1 is currently under active development.
+>
+> Appliquer is being designed in public as a platform-independent AI reasoning engine.
+
 ---
 
 # Vision
 
-Appliquer aims to become the most trusted AI Career Copilot for Product Managers.
+Appliquer exists to help Product Managers make better career decisions.
 
-Its purpose is not to maximize the number of job applications.
+Rather than optimizing for the number of applications submitted, Appliquer optimizes for the quality of opportunities pursued.
 
-Its purpose is to maximize the quality of career decisions.
-
-The long-term vision is an AI system that supports every stage of the job search:
-
-- Evaluate opportunities
-- Research companies
-- Tailor resumes
-- Prepare for interviews
-- Capture lessons learned
-- Continuously improve career strategy
+Its long-term vision is a portable AI reasoning engine that supports every stage of a Product Manager's career journey.
 
 ---
 
@@ -49,11 +47,26 @@ Appliquer should never exaggerate a user's fit for a role or hide uncertainty.
 
 The product exists to reduce wasted effort and improve decision quality.
 
-### AI supports judgment
+### AI augments judgment
 
 Appliquer helps users make better decisions.
 
 It never replaces the user's own judgment.
+
+
+---
+
+# Design Philosophy
+
+Appliquer is designed around one central idea:
+
+**The Brain is the product.**
+
+The Brain defines how Appliquer reasons, evaluates evidence, communicates recommendations, and supports decision-making.
+
+Individual platforms (ChatGPT, Claude, APIs, future web applications) are simply interfaces to the same Brain.
+
+This separation ensures that Appliquer's intelligence remains portable, explainable, and continuously improvable.
 
 ---
 
@@ -72,7 +85,7 @@ Its mission is to help professionals pursue fewer opportunities with greater con
 
 --
 
-# Current MVP
+# Current Capability
 
 Version 0.1 focuses on one capability:
 
