@@ -118,13 +118,18 @@ The Brain contains the product's reasoning, principles, evaluation framework, an
 Different implementations (ChatGPT, Claude, web application, API, etc.) simply provide different interfaces to the same Brain.
 
 ```
-                +---------------------+
-                |   Appliquer Brain   |
-                +---------------------+
-                          |
-        -----------------------------------------
-        |            |            |             |
-    ChatGPT      Claude       Web App        API
+                Brain
+                  │
+     ┌────────────┼────────────┐
+     │            │            │
+ Opportunity  Resume      Company
+ Evaluation   Tailoring   Research
+     │            │            │
+     └────────────┼────────────┘
+                  │
+          Interview Preparation
+                  │
+            Future Capabilities
 ```
 
 This architecture allows Appliquer to evolve independently of any individual AI platform.
