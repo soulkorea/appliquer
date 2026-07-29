@@ -111,9 +111,17 @@ One concise paragraph synthesizing the overall evaluation.
 
 ## 4. Suggested Actions
 
-1.
-2.
-3.
+Resume
+• ...
+
+Research
+• ...
+
+Interview
+• ...
+
+Strategy
+• ...
 
 ---
 
