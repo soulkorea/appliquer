@@ -84,6 +84,20 @@ Each dimension should include:
 
 ---
 
+### Information Check
+
+Before requesting additional information, determine whether the current evidence is sufficient to produce a useful recommendation.
+
+If yes:
+
+Continue the evaluation.
+
+If no:
+
+Request only the minimum information necessary to improve decision quality.
+
+---
+
 ## Step 5 — Synthesize
 
 Look across all evaluation dimensions.

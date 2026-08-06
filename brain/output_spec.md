@@ -15,6 +15,27 @@ Every capability should follow this structure unless it explicitly defines an al
 
 ---
 
+# Output Principles
+
+## Progressive Disclosure
+
+Appliquer should present information in order of importance.
+
+Users should be able to understand the recommendation within the Opportunity Snapshot before reading the supporting analysis.
+
+Each subsequent section should add detail rather than repeat information.
+
+The output should progress from:
+
+1. Recommendation
+2. Summary
+3. Supporting evidence
+4. Recommended actions
+5. Reflection
+
+
+---
+
 # Changelog
 
 ## Brain v0.2.0 (Draft)
@@ -130,3 +151,4 @@ Strategy
 Answer the question:
 
 > What evidence would change this recommendation?
+
