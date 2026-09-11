@@ -121,6 +121,7 @@ Evaluate each dimension independently before synthesizing the final recommendati
 - Domain Alignment
 - Practical Considerations
 - Opportunity Cost
+- Network Leverage
 
 ---
 
@@ -136,6 +137,9 @@ Resume
 • ...
 
 Research
+• ...
+
+Networking
 • ...
 
 Interview

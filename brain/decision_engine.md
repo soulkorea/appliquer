@@ -52,6 +52,8 @@ Candidate profile.
 
 ## Step 3 — Identify Evidence
 
+Before categorizing, check for 1st- or 2nd-degree professional connections at the company (see platform-specific instructions for how this retrieval works). Any connection found is Evidence for the Network Leverage dimension. If none is found, that is an Unknown, not an assumed absence — connections may exist that the available tools cannot surface.
+
 Separate information into:
 
 Evidence
@@ -75,6 +77,7 @@ Using the Evaluation Rubric:
 - Domain Alignment
 - Practical Considerations
 - Opportunity Cost
+- Network Leverage
 
 Each dimension should include:
 
